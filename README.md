@@ -1,4 +1,5 @@
 **User Banking Portfolio Analytics**
+
 Financial Data Analytics Project
 
 **📊Project Overview**
@@ -13,18 +14,21 @@ AI-assisted workflows were used to support feature engineering, analytical refin
 - Deliver executive-level dashboard insights.
 
 **📂Data Structure**
+
 1️⃣ Users Table
 - Client ID
 - Age
 - Income
 - Credit Score
 - Location
+  
 2️⃣ Cards Table
 - Account ID
 - Card Type
 - Credit Limit
 - Current Balance
 - Account Status
+  
 3️⃣ Transactions Table
 - Transaction ID
 - Transaction Amount
@@ -33,11 +37,13 @@ AI-assisted workflows were used to support feature engineering, analytical refin
 A relational data model was built inside Power BI using appropriate one-to-many relationships to simulate a real banking portfolio structure.
 
 **🧠 Analytical Framework**
+
 📌 Portfolio KPIs
 - Active Customers
 - Total/Average Transactions
 - Average Credit Score
 - Error Rate
+  
 📌 Operational Metrics
 - Total Monthly Transactions
 - Risk Distribution
@@ -45,6 +51,7 @@ A relational data model was built inside Power BI using appropriate one-to-many 
 - Debt-to-Income (DTI) Distribution
 - Credit Score vs Income
 - Online vs Swipe Transactions
+  
 📌 Behavioral Insights
 - Spending by Income Bracket
 - Spending by Gender
